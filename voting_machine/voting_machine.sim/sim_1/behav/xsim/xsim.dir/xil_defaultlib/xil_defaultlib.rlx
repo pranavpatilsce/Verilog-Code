@@ -1,0 +1,11 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sim_1/new/voting_rule_tb.v,1518488204,verilog,,,,voting_rule_tb,,,,,,,,
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/bcd_to_7seg.v,1518488044,verilog,,C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/clk_gen.v,,bcd_to_7seg,,,,,,,,
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/clk_gen.v,1518488110,verilog,,C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/led_mux.v,,clk_gen,,,,,,,,
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/led_mux.v,1518488086,verilog,,C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/voting_rule.v,,led_mux,,,,,,,,
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/voting_machine_fpga.v,1518487912,verilog,,,,voting_machine_fpga,,,,,,,,
+C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sources_1/new/voting_rule.v,1518903814,verilog,,C:/Users/Pranav/Documents/Vivado/CMPE125/voting_machine/voting_machine.srcs/sim_1/new/voting_rule_tb.v,,voting_rule,,,,,,,,
